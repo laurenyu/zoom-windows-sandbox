@@ -1,0 +1,13 @@
+<Configuration>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Users\lauren\Documents\zoom-windows-sandbox\mnt</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads\zoom</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <LogonCommand>
+    <Command>C:\Users\WDAGUtilityAccount\Downloads\zoom\ZoomInstaller.exe</Command>
+  </LogonCommand>
+  <VideoInput>Enable</VideoInput>
+</Configuration>
